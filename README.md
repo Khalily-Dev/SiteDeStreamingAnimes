@@ -92,4 +92,3 @@ Animeplus/
 
 Projeto desenvolvido por **\[Khalily]** 💻
 
-👉 Gostaria que eu deixasse esse README em **formato markdown pronto** (com emojis, títulos, listas e blocos de código) para você já copiar e colar no GitHub?
